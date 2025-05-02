@@ -35,6 +35,10 @@ pip install pytest
 pip install pytest pytest-cov
 Ctrl+Shift+P -> Python: Discover Tests
 
+
+python -m pip install pip setuptools wheel --upgrade
+
+
 -----------------------------------------------------------------------------------
 Verificar a versão do python (python 3.x.x)
 
