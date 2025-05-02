@@ -18,11 +18,14 @@ Open the terminal
 
 Activate type on terminal: .\venv\Scripts\activate
 
-Powershell
+
+Waning: Use  carefully on Powershell
 Não se esqueça de configurar o powershell com o comando abaixo (como administrador):
 
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 
+
+Se what version is the pip (pip --version)
 -----------------------------------------------------------------------------------
 Verificar a versão do python (python 3.x.x)
 
