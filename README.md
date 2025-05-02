@@ -29,7 +29,7 @@ See what version is the pip (pip --version)
 
 Upgrade pip (pip install pip --upgrade)
 
-On vev: python.exe -m pip install --upgrade pip
+On venv: python.exe -m pip install --upgrade pip
 
 -----------------------------------------------------------------------------------
 Verificar a versão do python (python 3.x.x)
