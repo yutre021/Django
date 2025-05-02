@@ -25,7 +25,10 @@ Não se esqueça de configurar o powershell com o comando abaixo (como administr
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 
 
-Se what version is the pip (pip --version)
+See what version is the pip (pip --version)
+
+Upgrade pip (pip install pip --upgrade)
+
 -----------------------------------------------------------------------------------
 Verificar a versão do python (python 3.x.x)
 
