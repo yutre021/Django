@@ -189,7 +189,8 @@ python manage.py shell
       "--errors-only"
     ],
     "python.formatting.autopep8Args": ["--indent-size=4"],
-    // "python.defaultInterpreterPath": "venv/bin/python",
+    // FOR MAC AND LINUX: "python.defaultInterpreterPath": "venv/bin/python",
+    // FOR WINDOWS: "python.defaultInterpreterPath": "venv\\Scripts\\python.exe",
     "[python]": {
       "editor.defaultFormatter": "ms-python.python", // ms-python.python
       "editor.tabSize": 4,
