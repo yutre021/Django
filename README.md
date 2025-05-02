@@ -95,6 +95,7 @@ criação de páginas dinâmicas com query params
 
 
 settings vscode
+'''json
 {
     "window.zoomLevel": 0,
     "editor.fontSize": 19,
@@ -156,3 +157,4 @@ settings vscode
       "typescript": "typescriptreact"
     }
   }
+'''
