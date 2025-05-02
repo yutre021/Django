@@ -53,6 +53,11 @@ python -m django --version
 pip freeze > requirements.txt
 ```
 
+### Install Requirements / Instalar as dependências
+```bash
+pip install -r requirements.txt
+```
+
 ### ⚙️ Create Project and App / Criar Projeto e Aplicativo
 ```bash
 django-admin startproject projeto1
