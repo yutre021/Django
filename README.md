@@ -32,8 +32,9 @@ Upgrade pip (pip install pip --upgrade)
 On venv: python.exe -m pip install --upgrade pip
 
 pip install pytest
-
+pip install pytest pytest-cov
 Ctrl+Shift+P -> Python: Discover Tests
+
 -----------------------------------------------------------------------------------
 Verificar a versão do python (python 3.x.x)
 
