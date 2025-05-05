@@ -60,9 +60,10 @@ pip install -r requirements.txt
 
 ### ⚙️ Create Project and App / Criar Projeto e Aplicativo
 ```bash
-django-admin startproject projeto1
+django-admin startproject projeto1 .
 cd projeto1
 python manage.py startapp app1
+python manage.py runserver
 ```
 - Configure `INSTALLED_APPS`, static files, and templates in `settings.py`.
 - Configure `INSTALLED_APPS`, arquivos estáticos e templates em `settings.py`.
